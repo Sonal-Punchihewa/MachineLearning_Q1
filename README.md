@@ -3,8 +3,8 @@
 Practical question 1, Machine Learning Module, HNDDS
 
 
-#NIBM
+# NIBM
 
-##DATA SCIENCE MACHINE LEARNING
+## DATA SCIENCE MACHINE LEARNING
 
 HND
